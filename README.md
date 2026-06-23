@@ -13,3 +13,6 @@ Update #1 - Added project description.
 ## Wallet Features
 - Connect wallet
 - View balance
+## Security
+- Transaction validation
+- Signature checks
