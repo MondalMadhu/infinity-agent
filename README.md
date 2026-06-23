@@ -16,3 +16,6 @@ Update #1 - Added project description.
 ## Security
 - Transaction validation
 - Signature checks
+## Future Plans
+- Multi-chain support
+- AI automation
