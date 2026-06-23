@@ -5,3 +5,8 @@ Update #1 - Added project description.
 - Onchain AI Agent
 - Base Network Integration
 - Wallet Connectivity
+# Infinity Agent Roadmap
+
+## Phase 1
+- Project setup
+- Base integration
