@@ -19,3 +19,6 @@ Update #1 - Added project description.
 ## Future Plans
 - Multi-chain support
 - AI automation
+## User Experience
+- Simple onboarding
+- Fast transactions
