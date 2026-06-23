@@ -10,3 +10,6 @@ Update #1 - Added project description.
 ## Phase 1
 - Project setup
 - Base integration
+## Wallet Features
+- Connect wallet
+- View balance
