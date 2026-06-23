@@ -22,3 +22,5 @@ Update #1 - Added project description.
 ## User Experience
 - Simple onboarding
 - Fast transactions
+## Supported Networks
+- Base
